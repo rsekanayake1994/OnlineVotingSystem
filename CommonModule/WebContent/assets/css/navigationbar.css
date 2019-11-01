@@ -1,0 +1,27 @@
+#autoA {
+	  background-color: #566573;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+}
+
+#manualA {
+	background-color: #566573;  
+  border-radius: 5px;
+  color: white;
+  padding: .5em;
+  text-decoration: none;
+}
+
+#manualA:focus,
+#manualA:hover {
+  background-color: FireBrick;
+  color: White;
+}
+
+#autoA:focus,
+#autoA:hover {
+  background-color: FireBrick;
+  color: White;
+}
